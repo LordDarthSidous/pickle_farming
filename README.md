@@ -1,6 +1,9 @@
 <div align='center'><img src='https://user-images.githubusercontent.com/111543470/204052111-a0c7109c-9597-4181-a7f6-1c7113dc98fb.png'/></div>
 <div align='center'><h3><a href='https://picklemods.com/'>More Information & Scripts can be found here!</a></h3></div>
 
+## This is a Modified Fork.
+<p> All real work goes to Pickle. I just added a few things like drug processing and the drug sales.</p>
+
 ## Preview
 
 https://www.youtube.com/watch?v=2nlrVU-w7KI
@@ -8,8 +11,6 @@ https://www.youtube.com/watch?v=2nlrVU-w7KI
 ## What is this?
 
 <p>This is a multi-framework farming system that's great for players to do as an activity!</p>
-
-<p>It's a great fit for any type of roleplaying server, whether it's Serious RP or not.</p>
 
 With this resource, you will be able to do the following:
 
