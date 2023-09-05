@@ -2,7 +2,7 @@
 <div align='center'><h3><a href='https://picklemods.com/'>More Information & Scripts can be found here!</a></h3></div>
 
 ## This is a Modified Fork.
-<p> All real work goes to Pickle. I just added a few things like drug processing and the drug sales.</p>
+<p> All real work goes to Pickle. I just edited script add the processing and drug sales.</p>
 
 ## Preview
 
